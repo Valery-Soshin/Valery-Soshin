@@ -3,8 +3,7 @@ Hi there!
 
 I\`ve been learning to code for 2 years.
 
-* ✉️  You can contact me at [valerius-soshin@yandex.ru](mailto:valerius-soshin@yandex.ru)
-* 🧠  I'm currently learning ASP.NET Core.
+✉️  You can contact me at [valerius-soshin@yandex.ru](mailto:valerius-soshin@yandex.ru)
 
 ### Skills
 
