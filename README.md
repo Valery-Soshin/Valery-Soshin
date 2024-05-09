@@ -9,7 +9,9 @@ Hi there!
 - ASP.NET Core
 - Entity Framework Core
 - Dapper
-- Postgres, PL/sql
+- Postgres, PL/sqlб
+- NLog
+- xUnit, Moq
 - HTML
 - CSS
 
