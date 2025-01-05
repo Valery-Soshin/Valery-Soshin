@@ -3,18 +3,6 @@ Hi there!
 
 ✉️ [valerius-soshin@yandex.ru](mailto:valerius-soshin@yandex.ru)
 
-### Skills
-
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- Dapper
-- Postgres, PL/sql
-- NLog
-- xUnit, Moq
-- HTML
-- CSS
-
 ### Badges
 
 <b>My GitHub Stats</b>
