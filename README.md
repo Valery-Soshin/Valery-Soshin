@@ -3,7 +3,7 @@ Hi there!
 
 ✉️ [valerius-soshin@yandex.ru](mailto:valerius-soshin@yandex.ru)
 
-📱 @valery_soshin
+📞 @valery_soshin
 
 ### Badges
 
