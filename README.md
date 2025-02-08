@@ -3,6 +3,8 @@ Hi there!
 
 ✉️ [valerius-soshin@yandex.ru](mailto:valerius-soshin@yandex.ru)
 
+📱 @valery_soshin
+
 ### Badges
 
 <b>My GitHub Stats</b>
